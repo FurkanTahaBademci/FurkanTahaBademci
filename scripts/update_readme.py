@@ -26,7 +26,7 @@ STRINGS = {
         "note": "Auto-generated daily by a GitHub Action — no manual edits needed.",
         "nodesc": "—",
         "events": {
-            "push": "Pushed {n} commit(s) to",
+            "push": "Pushed {n} commit{s} to",
             "create_repo": "Created",
             "create_branch": "Opened a new branch in",
             "release": "Published a release of",
@@ -79,6 +79,13 @@ def render_table(repos, s):
     return "\n".join(rows) + f"\n\n<sub>{s['note']}</sub>"
 
 
+class DefaultFields(dict):
+    """Lets a translation ignore fields it does not use (e.g. the plural 's')."""
+
+    def __missing__(self, key):
+        return ""
+
+
 ICONS = {"push": "⬆️", "create_repo": "✨", "create_branch": "🌱", "release": "🚀",
          "star": "⭐", "fork": "🍴", "pr": "🔀", "issue": "🐛"}
 
@@ -88,7 +95,8 @@ def classify(event):
     kind = event["type"]
     payload = event.get("payload", {})
     if kind == "PushEvent":
-        return "push", {"n": payload.get("size", 1)}
+        size = payload.get("size", 1)
+        return "push", {"n": size, "s": "" if size == 1 else "s"}
     if kind == "CreateEvent":
         ref = payload.get("ref_type")
         if ref == "repository":
@@ -108,6 +116,12 @@ def classify(event):
     return None, {}
 
 
+def short(repo):
+    """Own repositories read better without the owner prefix; others keep it."""
+    owner, name = repo.split("/", 1)
+    return name if owner == gh.USER else repo
+
+
 def render_activity(events, s, limit=5):
     lines = []
     for event in events:
@@ -115,9 +129,12 @@ def render_activity(events, s, limit=5):
         if not kind:
             continue
         repo = event["repo"]["name"]
-        phrase = s["events"][kind].format(**fields)
+        # Skip the profile repo's own automated refresh commits.
+        if kind == "push" and repo == f"{gh.USER}/{gh.USER}":
+            continue
+        phrase = s["events"][kind].format_map(DefaultFields(fields))
         lines.append(
-            f"- {ICONS[kind]} {phrase} [{repo}](https://github.com/{repo}) "
+            f"- {ICONS[kind]} {phrase} [{short(repo)}](https://github.com/{repo}) "
             f"<sub>{event['created_at'][:10]}</sub>"
         )
         if len(lines) == limit:
