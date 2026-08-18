@@ -6,6 +6,7 @@ files are never touched:
 
     <!-- NOW:START -->            what I pushed to most recently
     <!-- LATEST-REPOS:START -->   the five most recently pushed repositories
+    <!-- ACTIVITY:START -->       what I did on GitHub most recently
 """
 
 import os
@@ -24,12 +25,32 @@ STRINGS = {
         "head": ["Repository", "Description", "Language", "⭐", "Last push"],
         "note": "Auto-generated daily by a GitHub Action — no manual edits needed.",
         "nodesc": "—",
+        "events": {
+            "push": "Pushed {n} commit(s) to",
+            "create_repo": "Created",
+            "create_branch": "Opened a new branch in",
+            "release": "Published a release of",
+            "star": "Starred",
+            "fork": "Forked",
+            "pr": "Opened a pull request on",
+            "issue": "Opened an issue on",
+        },
     },
     "README.tr.md": {
         "now": "🔨 Şu an üzerinde çalıştığım proje:",
         "head": ["Depo", "Açıklama", "Dil", "⭐", "Son push"],
         "note": "Her gün GitHub Actions tarafından otomatik üretilir — elle düzenlemeye gerek yok.",
         "nodesc": "—",
+        "events": {
+            "push": "{n} commit gönderdi:",
+            "create_repo": "Yeni depo açtı:",
+            "create_branch": "Yeni dal açtı:",
+            "release": "Sürüm yayınladı:",
+            "star": "Yıldızladı:",
+            "fork": "Fork'ladı:",
+            "pr": "Pull request açtı:",
+            "issue": "Issue açtı:",
+        },
     },
 }
 
@@ -58,8 +79,55 @@ def render_table(repos, s):
     return "\n".join(rows) + f"\n\n<sub>{s['note']}</sub>"
 
 
+ICONS = {"push": "⬆️", "create_repo": "✨", "create_branch": "🌱", "release": "🚀",
+         "star": "⭐", "fork": "🍴", "pr": "🔀", "issue": "🐛"}
+
+
+def classify(event):
+    """Map a raw GitHub event onto one of the phrases we know how to print."""
+    kind = event["type"]
+    payload = event.get("payload", {})
+    if kind == "PushEvent":
+        return "push", {"n": payload.get("size", 1)}
+    if kind == "CreateEvent":
+        ref = payload.get("ref_type")
+        if ref == "repository":
+            return "create_repo", {}
+        if ref == "branch":
+            return "create_branch", {}
+    if kind == "ReleaseEvent":
+        return "release", {}
+    if kind == "WatchEvent":
+        return "star", {}
+    if kind == "ForkEvent":
+        return "fork", {}
+    if kind == "PullRequestEvent" and payload.get("action") == "opened":
+        return "pr", {}
+    if kind == "IssuesEvent" and payload.get("action") == "opened":
+        return "issue", {}
+    return None, {}
+
+
+def render_activity(events, s, limit=5):
+    lines = []
+    for event in events:
+        kind, fields = classify(event)
+        if not kind:
+            continue
+        repo = event["repo"]["name"]
+        phrase = s["events"][kind].format(**fields)
+        lines.append(
+            f"- {ICONS[kind]} {phrase} [{repo}](https://github.com/{repo}) "
+            f"<sub>{event['created_at'][:10]}</sub>"
+        )
+        if len(lines) == limit:
+            break
+    return "\n".join(lines) if lines else f"<sub>{s['note']}</sub>"
+
+
 def main():
     repos = [r for r in gh.own_repos() if r["name"] != gh.USER]
+    events = gh.get(f"/users/{gh.USER}/events/public?per_page=100", []) or []
     if not repos:
         sys.exit("GitHub API unreachable — READMEs left untouched")
 
@@ -72,7 +140,12 @@ def main():
             original = fh.read()
 
         updated = original
-        for name, body in (("NOW", render_now(repos, s)), ("LATEST-REPOS", render_table(repos, s))):
+        blocks = (
+            ("NOW", render_now(repos, s)),
+            ("LATEST-REPOS", render_table(repos, s)),
+            ("ACTIVITY", render_activity(events, s)),
+        )
+        for name, body in blocks:
             if f"<!-- {name}:START -->" not in updated:
                 continue
             updated = re.sub(

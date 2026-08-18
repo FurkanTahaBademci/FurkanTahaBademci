@@ -2,7 +2,10 @@
 
 # Hi 👋, I'm Furkan Taha Bademci
 
-### Artificial Intelligence Researcher · Computer Vision · Deep Learning
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/typing-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/typing-light.svg" alt="Artificial Intelligence Researcher · Computer Vision &amp; Deep Learning · Flutter Developer" width="80%" />
+</picture>
 
 **English** · [Türkçe](README.tr.md)
 
@@ -62,6 +65,11 @@
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
 <!-- LATEST-REPOS:END -->
 
+## ⚡ Recent Activity
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
 ---
 
 ## 💻 Tech Stack
@@ -114,22 +122,34 @@
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/langs-light.svg" alt="Languages I build with" width="49%" />
 </picture>
 
-<sub>These cards are generated in this repository by <a href="scripts/generate_cards.py">a script of my own</a> and refreshed daily — no third-party card service involved.</sub>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=FurkanTahaBademci&theme=dark&hide_border=false" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanTahaBademci&theme=github-compact&hide_border=false&area=true" alt="Contribution activity" />
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/contrib-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/contrib-light.svg" alt="Contribution heatmap and streaks" width="99%" />
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake.svg" alt="Contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-light.svg" alt="How my stack evolved" width="99%" />
 </picture>
+
+<sub>Every card here is generated inside this repository by <a href="scripts/">my own scripts</a> and refreshed daily — no third-party card service is involved.</sub>
+
+</div>
+
+### 🎮 My contributions, played
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-light.svg" alt="Contribution snake" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/pacman.svg" alt="Pac-Man contribution graph" />
+
+<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="90%" />
+
+<sub>Snake and Pac-Man eat last year's contribution grid; the isometric calendar stacks it in 3D. All three are rendered by workflows in this repository.</sub>
 
 </div>
 

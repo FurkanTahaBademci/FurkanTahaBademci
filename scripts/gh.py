@@ -33,6 +33,18 @@ def get(path, default=None):
         return default
 
 
+def graphql(query, variables):
+    """POST a GraphQL query. Requires a token — returns None without one."""
+    if not (os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")):
+        return None
+    try:
+        result = request("https://api.github.com/graphql", "POST",
+                         {"query": query, "variables": variables})
+    except (urllib.error.URLError, urllib.error.HTTPError, ValueError, TimeoutError):
+        return None
+    return None if result.get("errors") else result.get("data")
+
+
 def own_repos():
     """Non-fork, non-archived repositories owned by the user, newest push first."""
     repos = get(f"/users/{USER}/repos?per_page=100&sort=pushed", []) or []

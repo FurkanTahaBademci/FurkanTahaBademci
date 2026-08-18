@@ -28,10 +28,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Regenerate stat cards
+      - name: Regenerate the stat cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_cards.py
+        run: |
+          python scripts/generate_cards.py
+          python scripts/generate_contrib.py
+          python scripts/generate_lang_history.py
+          python scripts/generate_typing.py
 
       - name: Refresh auto-generated README sections
         env:

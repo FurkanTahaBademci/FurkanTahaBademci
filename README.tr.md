@@ -2,7 +2,10 @@
 
 # Merhaba 👋, ben Furkan Taha Bademci
 
-### Yapay Zekâ Araştırmacısı · Bilgisayarlı Görü · Derin Öğrenme
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/typing-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/typing-light.svg" alt="Yapay Zekâ Araştırmacısı · Bilgisayarlı Görü ve Derin Öğrenme · Flutter Geliştirici" width="80%" />
+</picture>
 
 [English](README.md) · **Türkçe**
 
@@ -62,6 +65,11 @@
 <sub>Her gün GitHub Actions tarafından otomatik üretilir — elle düzenlemeye gerek yok.</sub>
 <!-- LATEST-REPOS:END -->
 
+## ⚡ Son Etkinlikler
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
 ---
 
 ## 💻 Kullandığım Teknolojiler
@@ -114,22 +122,34 @@
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/langs-light.svg" alt="Kullandığım diller" width="49%" />
 </picture>
 
-<sub>Bu kartlar bu depodaki <a href="scripts/generate_cards.py">kendi scriptimle</a> üretiliyor ve her gün yenileniyor — üçüncü parti bir kart servisine bağlı değil.</sub>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=FurkanTahaBademci&theme=dark&hide_border=false&locale=tr" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanTahaBademci&theme=github-compact&hide_border=false&area=true" alt="Katkı grafiği" />
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/contrib-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/contrib-light.svg" alt="Katkı ısı haritası ve seriler" width="99%" />
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake.svg" alt="Katkı yılanı" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-light.svg" alt="Teknoloji yığınımın gelişimi" width="99%" />
 </picture>
+
+<sub>Buradaki tüm kartlar bu depodaki <a href="scripts/">kendi scriptlerimle</a> üretiliyor ve her gün yenileniyor — üçüncü parti bir kart servisi kullanılmıyor.</sub>
+
+</div>
+
+### 🎮 Katkılarım, oyun olarak
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-light.svg" alt="Katkı yılanı" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/pacman.svg" alt="Pac-Man katkı grafiği" />
+
+<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/profile-3d-contrib/profile-night-view.svg" alt="3B katkı takvimi" width="90%" />
+
+<sub>Yılan ve Pac-Man son bir yılın katkı ızgarasını yiyor; izometrik takvim ise aynı veriyi 3B olarak yığıyor. Üçü de bu depodaki workflow'lar tarafından üretiliyor.</sub>
 
 </div>
 
