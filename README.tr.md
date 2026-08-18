@@ -69,10 +69,10 @@
 
 <!-- ACTIVITY:START -->
 - 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ 1 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ 1 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ 1 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-09</sub>
+- ⬆️ 1 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-07</sub>
+- ⬆️ 5 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-06</sub>
 <!-- ACTIVITY:END -->
 
 ---
