@@ -122,8 +122,13 @@ def short(repo):
     return name if owner == gh.USER else repo
 
 
-def render_activity(events, s, limit=5):
-    lines = []
+def collapse(events):
+    """Merge events of the same kind on the same repository and day.
+
+    Four separate one-commit pushes to the same repo on the same afternoon
+    read as noise; "Pushed 4 commits" is what actually happened.
+    """
+    merged = {}
     for event in events:
         kind, fields = classify(event)
         if not kind:
@@ -132,13 +137,24 @@ def render_activity(events, s, limit=5):
         # Skip the profile repo's own automated refresh commits.
         if kind == "push" and repo == f"{gh.USER}/{gh.USER}":
             continue
+        key = (kind, repo, event["created_at"][:10])
+        if key in merged:
+            merged[key]["n"] = merged[key].get("n", 0) + fields.get("n", 0)
+        else:
+            merged[key] = dict(fields)
+    return merged
+
+
+def render_activity(events, s, limit=5):
+    lines = []
+    for (kind, repo, date), fields in list(collapse(events).items())[:limit]:
+        if "n" in fields:
+            fields["s"] = "" if fields["n"] == 1 else "s"
         phrase = s["events"][kind].format_map(DefaultFields(fields))
         lines.append(
             f"- {ICONS[kind]} {phrase} [{short(repo)}](https://github.com/{repo}) "
-            f"<sub>{event['created_at'][:10]}</sub>"
+            f"<sub>{date}</sub>"
         )
-        if len(lines) == limit:
-            break
     return "\n".join(lines) if lines else f"<sub>{s['note']}</sub>"
 
 
