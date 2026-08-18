@@ -68,6 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit(s) to [FurkanTahaBademci/FurkanTahaBademci](https://github.com/FurkanTahaBademci/FurkanTahaBademci) <sub>2026-08-18</sub>
+- 🚀 Published a release of [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ Pushed 1 commit(s) to [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ Pushed 1 commit(s) to [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ Pushed 1 commit(s) to [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 <!-- ACTIVITY:END -->
 
 ---

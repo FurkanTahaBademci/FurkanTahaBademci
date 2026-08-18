@@ -1,0 +1,54 @@
+<svg width="737" height="300" viewBox="0 0 737 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How my stack evolved">
+  <style>
+    .title { font: 600 18px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #58a6ff; }
+    .label { font: 400 14px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #c9d1d9; }
+    .value { font: 700 14px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #f0f6fc; }
+    .big { font: 700 22px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #f0f6fc; }
+    .muted { font: 400 11px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #8b949e; }
+    .row { opacity: 0; animation: fade 0.5s ease-in-out forwards; }
+    @keyframes fade { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="736" height="299" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="title">How my stack evolved</text>
+  <text x="712" y="35" class="muted" text-anchor="end">repositories started each year</text>
+  <line x1="25" y1="210" x2="712" y2="210" stroke="#30363d"/>
+  <rect x="70.7" y="105.0" width="46" height="105.0" fill="#3572A5"><title>2022 · Python: 6</title></rect>
+  <rect x="70.7" y="87.5" width="46" height="17.5" fill="#663399"><title>2022 · CSS: 1</title></rect>
+  <text x="93.7" y="79.5" class="value" text-anchor="middle">7</text>
+  <text x="93.7" y="230.0" class="muted" text-anchor="middle">2022</text>
+  <rect x="208.1" y="140.0" width="46" height="70.0" fill="#00B4AB"><title>2023 · Dart: 4</title></rect>
+  <rect x="208.1" y="87.5" width="46" height="52.5" fill="#3572A5"><title>2023 · Python: 3</title></rect>
+  <rect x="208.1" y="70.0" width="46" height="17.5" fill="#882B0F"><title>2023 · ActionScript: 1</title></rect>
+  <text x="231.1" y="62.0" class="value" text-anchor="middle">8</text>
+  <text x="231.1" y="230.0" class="muted" text-anchor="middle">2023</text>
+  <rect x="345.5" y="140.0" width="46" height="70.0" fill="#3572A5"><title>2024 · Python: 4</title></rect>
+  <text x="368.5" y="132.0" class="value" text-anchor="middle">4</text>
+  <text x="368.5" y="230.0" class="muted" text-anchor="middle">2024</text>
+  <rect x="482.9" y="175.0" width="46" height="35.0" fill="#3572A5"><title>2025 · Python: 2</title></rect>
+  <rect x="482.9" y="157.5" width="46" height="17.5" fill="#DA5B0B"><title>2025 · Jupyter Notebook: 1</title></rect>
+  <text x="505.9" y="149.5" class="value" text-anchor="middle">3</text>
+  <text x="505.9" y="230.0" class="muted" text-anchor="middle">2025</text>
+  <rect x="620.3" y="175.0" width="46" height="35.0" fill="#00B4AB"><title>2026 · Dart: 2</title></rect>
+  <text x="643.3" y="167.0" class="value" text-anchor="middle">2</text>
+  <text x="643.3" y="230.0" class="muted" text-anchor="middle">2026</text>
+  <g class="row" style="animation-delay:0.20s">
+    <rect x="25" y="255" width="10" height="10" rx="2" fill="#3572A5"/>
+    <text x="41" y="265" class="label">Python</text>
+  </g>
+  <g class="row" style="animation-delay:0.28s">
+    <rect x="97" y="255" width="10" height="10" rx="2" fill="#00B4AB"/>
+    <text x="113" y="265" class="label">Dart</text>
+  </g>
+  <g class="row" style="animation-delay:0.36s">
+    <rect x="153" y="255" width="10" height="10" rx="2" fill="#882B0F"/>
+    <text x="169" y="265" class="label">ActionScript</text>
+  </g>
+  <g class="row" style="animation-delay:0.44s">
+    <rect x="273" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
+    <text x="289" y="265" class="label">Jupyter Notebook</text>
+  </g>
+  <g class="row" style="animation-delay:0.52s">
+    <rect x="425" y="255" width="10" height="10" rx="2" fill="#663399"/>
+    <text x="441" y="265" class="label">CSS</text>
+  </g>
+</svg>

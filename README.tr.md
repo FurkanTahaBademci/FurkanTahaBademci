@@ -68,6 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 1 commit gönderdi: [FurkanTahaBademci/FurkanTahaBademci](https://github.com/FurkanTahaBademci/FurkanTahaBademci) <sub>2026-08-18</sub>
+- 🚀 Sürüm yayınladı: [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ 1 commit gönderdi: [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ 1 commit gönderdi: [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- ⬆️ 1 commit gönderdi: [FurkanTahaBademci/NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 <!-- ACTIVITY:END -->
 
 ---
