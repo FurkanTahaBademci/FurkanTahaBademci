@@ -5,6 +5,10 @@ on:
     # every day at 02:30 UTC, just before the README refresh
     - cron: "30 2 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contribution-games.yml"
 
 permissions:
   contents: write
