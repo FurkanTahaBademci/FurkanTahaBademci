@@ -8,7 +8,9 @@ Outputs: assets/contrib-dark.svg, assets/contrib-light.svg
 
 import datetime as dt
 import os
+import re
 import sys
+import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gh  # noqa: E402
@@ -36,21 +38,46 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 """
 
 
+def from_graphql(year):
+    data = gh.graphql(QUERY, {
+        "login": gh.USER,
+        "from": f"{year}-01-01T00:00:00Z",
+        "to": f"{year}-12-31T23:59:59Z",
+    })
+    if not data:
+        return None
+    weeks = data["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+    return {d["date"]: d["contributionCount"]
+            for w in weeks for d in w["contributionDays"]}
+
+
+def from_public_page(year):
+    """Parse the public contribution calendar — works without any token."""
+    url = (f"https://github.com/users/{gh.USER}/contributions"
+           f"?from={year}-01-01&to={year}-12-31")
+    req = urllib.request.Request(url, headers={"User-Agent": gh.USER})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", "replace")
+    except (urllib.error.URLError, TimeoutError):
+        return None
+
+    dates = dict(re.findall(r'data-date="(\d{4}-\d{2}-\d{2})" id="([^"]+)"', html))
+    counts = {}
+    for cell, text in re.findall(r'<tool-tip[^>]*for="([^"]+)"[^>]*>([^<]*)</tool-tip>', html):
+        number = re.match(r"(\d+) contribution", text)
+        counts[cell] = int(number.group(1)) if number else 0
+    return {date: counts.get(cell, 0) for date, cell in dates.items()}
+
+
 def calendar(created_year, today):
     """Every contribution day since the account was created, as {date: count}."""
     days = {}
     for year in range(created_year, today.year + 1):
-        data = gh.graphql(QUERY, {
-            "login": gh.USER,
-            "from": f"{year}-01-01T00:00:00Z",
-            "to": f"{year}-12-31T23:59:59Z",
-        })
-        if not data:
+        year_days = from_graphql(year) or from_public_page(year)
+        if year_days is None:
             return None
-        weeks = data["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
-        for week in weeks:
-            for day in week["contributionDays"]:
-                days[day["date"]] = day["contributionCount"]
+        days.update(year_days)
     return days
 
 
@@ -139,9 +166,8 @@ def main():
 
     today = dt.date.fromisoformat(os.environ.get("TODAY") or dt.date.today().isoformat())
     days = calendar(int(user["created_at"][:4]), today)
-    if days is None:
-        print("no token or GraphQL unavailable — contribution card left untouched")
-        return
+    if not days:
+        sys.exit("could not read the contribution calendar — card left untouched")
 
     os.makedirs(ASSETS, exist_ok=True)
     for theme in kit.THEMES:
