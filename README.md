@@ -119,6 +119,11 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake.svg" alt="A snake eating my contribution grid" width="99%" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/stats-dark.svg" />
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/stats-light.svg" alt="GitHub stats" width="49%" />
 </picture>
@@ -137,24 +142,7 @@
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-light.svg" alt="How my stack evolved" width="99%" />
 </picture>
 
-<sub>Every card here is generated inside this repository by <a href="scripts/">my own scripts</a> and refreshed daily — no third-party card service is involved.</sub>
-
-</div>
-
-### 🎮 My contributions, played
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-light.svg" alt="Contribution snake" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/pacman.svg" alt="Pac-Man contribution graph" />
-
-<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="90%" />
-
-<sub>Snake and Pac-Man eat last year's contribution grid; the isometric calendar stacks it in 3D. All three are rendered by workflows in this repository.</sub>
+<sub>The snake and every card here are generated inside this repository by <a href="scripts/">my own scripts and workflows</a>, refreshed daily — no third-party card service is involved.</sub>
 
 </div>
 

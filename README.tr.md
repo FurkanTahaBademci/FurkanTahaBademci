@@ -119,6 +119,11 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/github-snake.svg" alt="Katkı ızgaramı yiyen yılan" width="99%" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/stats-dark.svg" />
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/stats-light.svg" alt="GitHub istatistikleri" width="49%" />
 </picture>
@@ -137,24 +142,7 @@
   <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/assets/lang-history-light.svg" alt="Teknoloji yığınımın gelişimi" width="99%" />
 </picture>
 
-<sub>Buradaki tüm kartlar bu depodaki <a href="scripts/">kendi scriptlerimle</a> üretiliyor ve her gün yenileniyor — üçüncü parti bir kart servisi kullanılmıyor.</sub>
-
-</div>
-
-### 🎮 Katkılarım, oyun olarak
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output//github-snake-light.svg" alt="Katkı yılanı" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/output/pacman.svg" alt="Pac-Man katkı grafiği" />
-
-<img src="https://raw.githubusercontent.com/FurkanTahaBademci/FurkanTahaBademci/main/profile-3d-contrib/profile-night-view.svg" alt="3B katkı takvimi" width="90%" />
-
-<sub>Yılan ve Pac-Man son bir yılın katkı ızgarasını yiyor; izometrik takvim ise aynı veriyi 3B olarak yığıyor. Üçü de bu depodaki workflow'lar tarafından üretiliyor.</sub>
+<sub>Yılan ve buradaki tüm kartlar bu depodaki <a href="scripts/">kendi scriptlerim ve workflow'larımla</a> üretiliyor, her gün yenileniyor — üçüncü parti bir kart servisi kullanılmıyor.</sub>
 
 </div>
 
