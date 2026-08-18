@@ -1,0 +1,43 @@
+<svg width="495" height="178" viewBox="0 0 495 178" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Languages I Build With">
+  <style>
+    .title { font: 600 18px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #0969da; }
+    .label { font: 400 14px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #1f2328; }
+    .value { font: 700 14px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #1f2328; }
+    .muted { font: 400 11px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; fill: #59636e; }
+    .row { opacity: 0; animation: fade 0.5s ease-in-out forwards; }
+    @keyframes fade { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="494" height="177" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="25" y="35" class="title">Languages I Build With</text>
+  <rect x="25" y="55" rx="5" width="445" height="10" fill="#eaeef2"/>
+  <rect x="25.0" y="55" width="270.9" height="10" fill="#3572A5" rx="5"/>
+  <rect x="295.9" y="55" width="116.1" height="10" fill="#00B4AB"/>
+  <rect x="412.0" y="55" width="19.3" height="10" fill="#DA5B0B"/>
+  <rect x="431.3" y="55" width="19.3" height="10" fill="#882B0F"/>
+  <rect x="450.7" y="55" width="19.3" height="10" fill="#663399"/>
+  <g class="row" style="animation-delay:0.20s">
+    <circle cx="30" cy="91" r="5" fill="#3572A5"/>
+    <text x="43" y="95" class="label">Python</text>
+    <text x="230" y="95" class="value" text-anchor="end">14 repo · 61%</text>
+  </g>
+  <g class="row" style="animation-delay:0.28s">
+    <circle cx="265" cy="91" r="5" fill="#00B4AB"/>
+    <text x="278" y="95" class="label">Dart</text>
+    <text x="465" y="95" class="value" text-anchor="end">6 repo · 26%</text>
+  </g>
+  <g class="row" style="animation-delay:0.36s">
+    <circle cx="30" cy="117" r="5" fill="#DA5B0B"/>
+    <text x="43" y="121" class="label">Jupyter Notebook</text>
+    <text x="230" y="121" class="value" text-anchor="end">1 repo · 4%</text>
+  </g>
+  <g class="row" style="animation-delay:0.44s">
+    <circle cx="265" cy="117" r="5" fill="#882B0F"/>
+    <text x="278" y="121" class="label">ActionScript</text>
+    <text x="465" y="121" class="value" text-anchor="end">1 repo · 4%</text>
+  </g>
+  <g class="row" style="animation-delay:0.52s">
+    <circle cx="30" cy="143" r="5" fill="#663399"/>
+    <text x="43" y="147" class="label">CSS</text>
+    <text x="230" y="147" class="value" text-anchor="end">1 repo · 4%</text>
+  </g>
+</svg>

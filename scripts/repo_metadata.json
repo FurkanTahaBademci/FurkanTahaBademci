@@ -1,0 +1,98 @@
+{
+  "NFCWrite": {
+    "description": "NFC Toolkit — Flutter app for reading, writing and managing NFC tags",
+    "topics": ["flutter", "dart", "nfc", "android", "mobile-app"]
+  },
+  "MucitAkademi": {
+    "description": "Weekly Python course materials (hafta1–hafta25) used in Mucit Akademi lessons",
+    "topics": ["python", "education", "course-materials", "teaching"]
+  },
+  "telegram-bot-python": {
+    "description": "Telegram bot that lets you talk to a Python process on your machine and follow crypto pairs",
+    "topics": ["python", "telegram-bot", "automation", "cryptocurrency"]
+  },
+  "BtKontrolRobomer": {
+    "description": "Flutter app that drives robots over Classic Bluetooth (HC-05/06) and BLE with PWM speed control",
+    "topics": ["flutter", "dart", "bluetooth", "ble", "arduino", "robotics"]
+  },
+  "AiToolBox": {
+    "description": "PyQt5 desktop toolbox: video frame extraction and YOLO label analysis with CSV reports",
+    "topics": ["python", "pyqt5", "yolo", "computer-vision", "dataset-tools"]
+  },
+  "Tasarim_Kodlar_Elektromanyetik_Katapult": {
+    "description": "Design notebooks and controller code for a portable electromagnetic catapult for light UAV platforms",
+    "topics": ["jupyter-notebook", "electromagnetics", "uav", "engineering-design"]
+  },
+  "opencv_dersi": {
+    "description": "OpenCV lesson series in Python: basic operations, drawing functions, video and camera handling",
+    "topics": ["opencv", "python", "computer-vision", "tutorial", "education"]
+  },
+  "Buton_Usb_Comm": {
+    "description": "Python reader that continuously polls pin values from a device over a serial (USB) port",
+    "topics": ["python", "serial-port", "pyserial", "hardware", "iot"]
+  },
+  "buton_communication_wifi_python": {
+    "description": "Python client that reads button device data from an ESP8266 over Wi-Fi",
+    "topics": ["python", "esp8266", "wifi", "iot", "hardware"]
+  },
+  "buton_communication_ble_python": {
+    "description": "Asynchronous Python reader for BLE devices over configurable service UUIDs",
+    "topics": ["python", "ble", "bluetooth-low-energy", "asyncio", "iot"]
+  },
+  "todo_app": {
+    "description": "Simple Flutter to-do list application",
+    "topics": ["flutter", "dart", "todo-app", "mobile-app"]
+  },
+  "PIC16F877A": {
+    "description": "MPLAB X lab projects for the PIC16F877A: timers, interrupts and UART master/slave examples",
+    "topics": ["pic16f877a", "microcontroller", "embedded", "mplabx", "c"]
+  },
+  "Data_duplication_and_labeling": {
+    "description": "Synthetically multiplies training images and writes the matching YOLO labels for pasted objects",
+    "topics": ["python", "yolo", "data-augmentation", "dataset", "computer-vision"]
+  },
+  "ImageAugmenter": {
+    "description": "CLI image augmentation tool that multiplies datasets and carries the YOLO label files along",
+    "topics": ["python", "opencv", "data-augmentation", "dataset", "yolo", "cli"]
+  },
+  "furkantahabademci.github.io": {
+    "description": "Personal portfolio website",
+    "topics": ["portfolio", "github-pages", "website", "css"]
+  },
+  "hand-track-ardunio-serial-connection": {
+    "description": "Hand tracking in Python that drives an Arduino over a serial connection",
+    "topics": ["python", "opencv", "arduino", "serial", "hand-tracking"]
+  },
+  "FurkanTahaBademci": {
+    "description": "My GitHub profile README — cards and project list regenerate themselves daily via GitHub Actions",
+    "topics": ["profile-readme", "github-actions", "automation"]
+  },
+  "poke_dex": {
+    "description": "Flutter Pokédex application",
+    "topics": ["flutter", "dart", "mobile-app"]
+  },
+  "Flutter_Grade_Calcucation": {
+    "description": "Flutter app that calculates course grade averages",
+    "topics": ["flutter", "dart", "mobile-app"]
+  },
+  "burc_app": {
+    "description": "Flutter horoscope app",
+    "topics": ["flutter", "dart", "mobile-app"]
+  },
+  "opencv_measuring_distance": {
+    "description": "Measures contours on images and video in millimetres using a reference object",
+    "topics": ["opencv", "python", "image-processing", "measurement", "computer-vision"]
+  },
+  "basic-processes-in-txt-folders": {
+    "description": "Utility scripts for batch txt/xml label operations, bulk renaming and pulling frames out of video",
+    "topics": ["python", "dataset", "labeling", "utilities"]
+  },
+  "python-ai-plate-detection": {
+    "description": "Detects license plates with AI and converts them to text with image processing and OCR",
+    "topics": ["python", "opencv", "ocr", "object-detection", "computer-vision"]
+  },
+  "hsv-renk-deger-algilama": {
+    "description": "Interactive HSV colour-range detector built on OpenCV trackbars",
+    "topics": ["opencv", "python", "hsv", "color-detection", "computer-vision"]
+  }
+}
