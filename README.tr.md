@@ -28,7 +28,7 @@
 - 📫 İletişim: **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Şu an üzerinde çalıştığım proje: **[NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite)** <sub>(last push 2026-08-10)</sub>
+🔨 Şu an üzerinde çalıştığım proje: **[furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io)** — update <sub>(last push 2026-08-18)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Sosyal Medya
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Depo | Açıklama | Dil | ⭐ | Son push |
 | --- | --- | --- | --- | --- |
+| [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-18 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-05-16 |
 | [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-04-25 |
-| [AiToolBox](https://github.com/FurkanTahaBademci/AiToolBox) | — | Python | 0 | 2025-09-21 |
 
 <sub>Her gün GitHub Actions tarafından otomatik üretilir — elle düzenlemeye gerek yok.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,11 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 3 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 - ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 - ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-09</sub>
 - ⬆️ 1 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-07</sub>
-- ⬆️ 5 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-06</sub>
 <!-- ACTIVITY:END -->
 
 ---

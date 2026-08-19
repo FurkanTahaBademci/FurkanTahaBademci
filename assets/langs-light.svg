@@ -12,9 +12,9 @@
   <rect x="25" y="55" rx="5" width="445" height="10" fill="#eaeef2"/>
   <rect x="25.0" y="55" width="278.1" height="10" fill="#3572A5" rx="5"/>
   <rect x="303.1" y="55" width="111.2" height="10" fill="#00B4AB"/>
-  <rect x="414.4" y="55" width="18.5" height="10" fill="#DA5B0B"/>
-  <rect x="432.9" y="55" width="18.5" height="10" fill="#882B0F"/>
-  <rect x="451.5" y="55" width="18.5" height="10" fill="#663399"/>
+  <rect x="414.4" y="55" width="18.5" height="10" fill="#663399"/>
+  <rect x="432.9" y="55" width="18.5" height="10" fill="#DA5B0B"/>
+  <rect x="451.5" y="55" width="18.5" height="10" fill="#882B0F"/>
   <g class="row" style="animation-delay:0.20s">
     <circle cx="30" cy="91" r="5" fill="#3572A5"/>
     <text x="43" y="95" class="label">Python</text>
@@ -26,18 +26,18 @@
     <text x="465" y="95" class="value" text-anchor="end">6 repo · 25%</text>
   </g>
   <g class="row" style="animation-delay:0.36s">
-    <circle cx="30" cy="117" r="5" fill="#DA5B0B"/>
-    <text x="43" y="121" class="label">Jupyter Notebook</text>
+    <circle cx="30" cy="117" r="5" fill="#663399"/>
+    <text x="43" y="121" class="label">CSS</text>
     <text x="230" y="121" class="value" text-anchor="end">1 repo · 4%</text>
   </g>
   <g class="row" style="animation-delay:0.44s">
-    <circle cx="265" cy="117" r="5" fill="#882B0F"/>
-    <text x="278" y="121" class="label">ActionScript</text>
+    <circle cx="265" cy="117" r="5" fill="#DA5B0B"/>
+    <text x="278" y="121" class="label">Jupyter Notebook</text>
     <text x="465" y="121" class="value" text-anchor="end">1 repo · 4%</text>
   </g>
   <g class="row" style="animation-delay:0.52s">
-    <circle cx="30" cy="143" r="5" fill="#663399"/>
-    <text x="43" y="147" class="label">CSS</text>
+    <circle cx="30" cy="143" r="5" fill="#882B0F"/>
+    <text x="43" y="147" class="label">ActionScript</text>
     <text x="230" y="147" class="value" text-anchor="end">1 repo · 4%</text>
   </g>
 </svg>

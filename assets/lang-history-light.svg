@@ -40,15 +40,15 @@
     <text x="113" y="265" class="label">Dart</text>
   </g>
   <g class="row" style="animation-delay:0.36s">
-    <rect x="153" y="255" width="10" height="10" rx="2" fill="#882B0F"/>
-    <text x="169" y="265" class="label">ActionScript</text>
+    <rect x="153" y="255" width="10" height="10" rx="2" fill="#663399"/>
+    <text x="169" y="265" class="label">CSS</text>
   </g>
   <g class="row" style="animation-delay:0.44s">
-    <rect x="273" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
-    <text x="289" y="265" class="label">Jupyter Notebook</text>
+    <rect x="201" y="255" width="10" height="10" rx="2" fill="#882B0F"/>
+    <text x="217" y="265" class="label">ActionScript</text>
   </g>
   <g class="row" style="animation-delay:0.52s">
-    <rect x="425" y="255" width="10" height="10" rx="2" fill="#663399"/>
-    <text x="441" y="265" class="label">CSS</text>
+    <rect x="321" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
+    <text x="337" y="265" class="label">Jupyter Notebook</text>
   </g>
 </svg>
