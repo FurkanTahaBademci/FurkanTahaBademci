@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io)** — update <sub>(last push 2026-08-18)</sub>
+🔨 Currently working on **[furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io)** — update <sub>(last push 2026-08-19)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,7 +56,7 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
-| [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-18 |
+| [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-05-16 |
 | [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - ⬆️ Pushed 3 commits to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 - ⬆️ Pushed 3 commits to [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 - ⬆️ Pushed 3 commits to [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-09</sub>
-- ⬆️ Pushed 1 commit to [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-07</sub>
 <!-- ACTIVITY:END -->
 
 ---
