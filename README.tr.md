@@ -28,7 +28,7 @@
 - 📫 İletişim: **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Şu an üzerinde çalıştığım proje: **[furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io)** — update <sub>(last push 2026-08-19)</sub>
+🔨 Şu an üzerinde çalıştığım proje: **[BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer)** <sub>(last push 2026-08-24)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Sosyal Medya
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Depo | Açıklama | Dil | ⭐ | Son push |
 | --- | --- | --- | --- | --- |
+| [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-05-16 |
 | [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
-| [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-04-25 |
 
 <sub>Her gün GitHub Actions tarafından otomatik üretilir — elle düzenlemeye gerek yok.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,11 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 1 commit gönderdi: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-08-24</sub>
 - ⬆️ 1 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - ⬆️ 3 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 - ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-09</sub>
 <!-- ACTIVITY:END -->
 
 ---
