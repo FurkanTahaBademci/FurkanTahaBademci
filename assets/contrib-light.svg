@@ -382,12 +382,13 @@
   <rect x="675" y="148" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-23: 2</title></rect>
   <rect x="688" y="70" width="11" height="11" rx="2" fill="#40c463"><title>2026-08-24: 39</title></rect>
   <rect x="688" y="83" width="11" height="11" rx="2" fill="#216e39"><title>2026-08-25: 65</title></rect>
-  <rect x="688" y="96" width="11" height="11" rx="2" fill="#30a14e"><title>2026-08-26: 55</title></rect>
+  <rect x="688" y="96" width="11" height="11" rx="2" fill="#30a14e"><title>2026-08-26: 57</title></rect>
   <rect x="688" y="109" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-27: 12</title></rect>
   <rect x="688" y="122" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-28: 1</title></rect>
   <rect x="688" y="135" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-08-29: 0</title></rect>
   <rect x="688" y="148" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-30: 3</title></rect>
-  <rect x="701" y="70" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-31: 1</title></rect>
+  <rect x="701" y="70" width="11" height="11" rx="2" fill="#40c463"><title>2026-08-31: 24</title></rect>
+  <rect x="701" y="83" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-09-01: 0</title></rect>
   <g class="row" style="animation-delay:0.20s">
     <text x="25" y="201" class="muted">🔥 Current streak</text>
     <text x="25" y="223" class="big">2 days</text>
@@ -398,7 +399,7 @@
   </g>
   <g class="row" style="animation-delay:0.40s">
     <text x="367" y="201" class="muted">📅 Contributions</text>
-    <text x="367" y="223" class="big">1,045</text>
+    <text x="367" y="223" class="big">1,070</text>
   </g>
   <g class="row" style="animation-delay:0.50s">
     <text x="538" y="201" class="muted">⚡ Best day</text>

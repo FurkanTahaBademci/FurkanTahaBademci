@@ -72,7 +72,7 @@
 - ⬆️ 1 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - ⬆️ 3 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ 3 commit gönderdi: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-06</sub>
 <!-- ACTIVITY:END -->
 
 ---

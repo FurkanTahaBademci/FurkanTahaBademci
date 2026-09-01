@@ -72,7 +72,7 @@
 - ⬆️ Pushed 1 commit to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - ⬆️ Pushed 3 commits to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- ⬆️ Pushed 3 commits to [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
+- 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-06</sub>
 <!-- ACTIVITY:END -->
 
 ---
