@@ -364,37 +364,38 @@
   <rect x="649" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-05: 16</title></rect>
   <rect x="649" y="109" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-06: 12</title></rect>
   <rect x="649" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-07: 6</title></rect>
-  <rect x="649" y="135" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-08: 24</title></rect>
+  <rect x="649" y="135" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-08: 24</title></rect>
   <rect x="649" y="148" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-09: 12</title></rect>
   <rect x="662" y="70" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-10: 8</title></rect>
   <rect x="662" y="83" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-11: 19</title></rect>
   <rect x="662" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-12: 6</title></rect>
-  <rect x="662" y="109" width="11" height="11" rx="2" fill="#26a641"><title>2026-08-13: 45</title></rect>
+  <rect x="662" y="109" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-13: 45</title></rect>
   <rect x="662" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-14: 10</title></rect>
   <rect x="662" y="135" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-15: 0</title></rect>
   <rect x="662" y="148" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-16: 0</title></rect>
-  <rect x="675" y="70" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-17: 22</title></rect>
+  <rect x="675" y="70" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-17: 22</title></rect>
   <rect x="675" y="83" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-18: 31</title></rect>
   <rect x="675" y="96" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-19: 37</title></rect>
   <rect x="675" y="109" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-20: 31</title></rect>
-  <rect x="675" y="122" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-21: 22</title></rect>
+  <rect x="675" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-21: 22</title></rect>
   <rect x="675" y="135" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-22: 18</title></rect>
   <rect x="675" y="148" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-23: 2</title></rect>
   <rect x="688" y="70" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-24: 39</title></rect>
-  <rect x="688" y="83" width="11" height="11" rx="2" fill="#39d353"><title>2026-08-25: 65</title></rect>
+  <rect x="688" y="83" width="11" height="11" rx="2" fill="#26a641"><title>2026-08-25: 65</title></rect>
   <rect x="688" y="96" width="11" height="11" rx="2" fill="#26a641"><title>2026-08-26: 57</title></rect>
   <rect x="688" y="109" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-27: 12</title></rect>
-  <rect x="688" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-28: 1</title></rect>
+  <rect x="688" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-28: 2</title></rect>
   <rect x="688" y="135" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-29: 0</title></rect>
   <rect x="688" y="148" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-30: 3</title></rect>
-  <rect x="701" y="70" width="11" height="11" rx="2" fill="#006d32"><title>2026-08-31: 24</title></rect>
+  <rect x="701" y="70" width="11" height="11" rx="2" fill="#0e4429"><title>2026-08-31: 24</title></rect>
   <rect x="701" y="83" width="11" height="11" rx="2" fill="#161b22"><title>2026-09-01: 0</title></rect>
   <rect x="701" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-09-02: 5</title></rect>
   <rect x="701" y="109" width="11" height="11" rx="2" fill="#0e4429"><title>2026-09-03: 10</title></rect>
-  <rect x="701" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-09-04: 16</title></rect>
+  <rect x="701" y="122" width="11" height="11" rx="2" fill="#39d353"><title>2026-09-04: 81</title></rect>
+  <rect x="701" y="135" width="11" height="11" rx="2" fill="#0e4429"><title>2026-09-05: 15</title></rect>
   <g class="row" style="animation-delay:0.20s">
     <text x="25" y="201" class="muted">🔥 Current streak</text>
-    <text x="25" y="223" class="big">3 days</text>
+    <text x="25" y="223" class="big">4 days</text>
   </g>
   <g class="row" style="animation-delay:0.30s">
     <text x="196" y="201" class="muted">🏆 Longest streak</text>
@@ -402,10 +403,10 @@
   </g>
   <g class="row" style="animation-delay:0.40s">
     <text x="367" y="201" class="muted">📅 Contributions</text>
-    <text x="367" y="223" class="big">1,101</text>
+    <text x="367" y="223" class="big">1,182</text>
   </g>
   <g class="row" style="animation-delay:0.50s">
     <text x="538" y="201" class="muted">⚡ Best day</text>
-    <text x="538" y="223" class="big">65</text>
+    <text x="538" y="223" class="big">81</text>
   </g>
 </svg>
