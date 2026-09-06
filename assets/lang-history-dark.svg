@@ -44,11 +44,11 @@
     <text x="169" y="265" class="label">ActionScript</text>
   </g>
   <g class="row" style="animation-delay:0.44s">
-    <rect x="273" y="255" width="10" height="10" rx="2" fill="#663399"/>
-    <text x="289" y="265" class="label">CSS</text>
+    <rect x="273" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
+    <text x="289" y="265" class="label">Jupyter Notebook</text>
   </g>
   <g class="row" style="animation-delay:0.52s">
-    <rect x="321" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
-    <text x="337" y="265" class="label">Jupyter Notebook</text>
+    <rect x="425" y="255" width="10" height="10" rx="2" fill="#663399"/>
+    <text x="441" y="265" class="label">CSS</text>
   </g>
 </svg>

@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer)** <sub>(last push 2026-08-24)</sub>
+🔨 Currently working on **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-09-05)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,10 +56,10 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-09-05 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
-| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-05-16 |
 | [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
 
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
 - ⬆️ Pushed 1 commit to [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-08-24</sub>
 - ⬆️ Pushed 1 commit to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - ⬆️ Pushed 3 commits to [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-18</sub>
 - 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
-- 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-06</sub>
 <!-- ACTIVITY:END -->
 
 ---
