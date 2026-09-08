@@ -70,7 +70,6 @@
 <!-- ACTIVITY:START -->
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
 - ⬆️ 1 commit gönderdi: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-08-24</sub>
-- ⬆️ 1 commit gönderdi: [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) <sub>2026-08-19</sub>
 - 🚀 Sürüm yayınladı: [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 <!-- ACTIVITY:END -->
 
