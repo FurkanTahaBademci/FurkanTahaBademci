@@ -69,8 +69,6 @@
 
 <!-- ACTIVITY:START -->
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
-- ⬆️ Pushed 1 commit to [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-08-24</sub>
-- 🚀 Published a release of [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) <sub>2026-08-10</sub>
 <!-- ACTIVITY:END -->
 
 ---
