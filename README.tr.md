@@ -28,7 +28,7 @@
 - 📫 İletişim: **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Şu an üzerinde çalıştığım proje: **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-09-05)</sub>
+🔨 Şu an üzerinde çalıştığım proje: **[ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder)** <sub>(last push 2026-09-12)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Sosyal Medya
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Depo | Açıklama | Dil | ⭐ | Son push |
 | --- | --- | --- | --- | --- |
+| [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) | — | Python | 0 | 2026-09-12 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-09-05 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
-| [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
 
 <sub>Her gün GitHub Actions tarafından otomatik üretilir — elle düzenlemeye gerek yok.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,6 +68,9 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 1 commit gönderdi: [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-12</sub>
+- 🌱 Yeni dal açtı: [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
+- ⬆️ 1 commit gönderdi: [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
 - ⭐ Yıldızladı: [pascalorg/editor](https://github.com/pascalorg/editor) <sub>2026-09-10</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
 <!-- ACTIVITY:END -->

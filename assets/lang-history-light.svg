@@ -29,7 +29,8 @@
   <text x="505.9" y="149.5" class="value" text-anchor="middle">3</text>
   <text x="505.9" y="230.0" class="muted" text-anchor="middle">2025</text>
   <rect x="620.3" y="175.0" width="46" height="35.0" fill="#00B4AB"><title>2026 · Dart: 2</title></rect>
-  <text x="643.3" y="167.0" class="value" text-anchor="middle">2</text>
+  <rect x="620.3" y="157.5" width="46" height="17.5" fill="#3572A5"><title>2026 · Python: 1</title></rect>
+  <text x="643.3" y="149.5" class="value" text-anchor="middle">3</text>
   <text x="643.3" y="230.0" class="muted" text-anchor="middle">2026</text>
   <g class="row" style="animation-delay:0.20s">
     <rect x="25" y="255" width="10" height="10" rx="2" fill="#3572A5"/>

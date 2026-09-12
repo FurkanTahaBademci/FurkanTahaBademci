@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-09-05)</sub>
+🔨 Currently working on **[ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder)** <sub>(last push 2026-09-12)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) | — | Python | 0 | 2026-09-12 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-09-05 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
 | [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
-| [telegram-bot-python](https://github.com/FurkanTahaBademci/telegram-bot-python) | — | Python | 0 | 2026-05-05 |
 
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,6 +68,9 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-12</sub>
+- 🌱 Opened a new branch in [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
+- ⬆️ Pushed 1 commit to [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
 - ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor) <sub>2026-09-10</sub>
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
 <!-- ACTIVITY:END -->
