@@ -72,7 +72,6 @@
 - 🌱 Yeni dal açtı: [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
 - ⬆️ 1 commit gönderdi: [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) <sub>2026-09-11</sub>
 - ⭐ Yıldızladı: [pascalorg/editor](https://github.com/pascalorg/editor) <sub>2026-09-10</sub>
-- ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-09-05</sub>
 <!-- ACTIVITY:END -->
 
 ---
