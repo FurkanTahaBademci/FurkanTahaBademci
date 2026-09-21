@@ -27,7 +27,7 @@
   </g>
   <g class="row" style="animation-delay:0.55s">
     <text x="25" y="188" class="label">👥  Followers</text>
-    <text x="465" y="188" class="value" text-anchor="end">29</text>
+    <text x="465" y="188" class="value" text-anchor="end">30</text>
   </g>
   <text x="25" y="222" class="muted">Generated automatically from the GitHub API</text>
 </svg>
