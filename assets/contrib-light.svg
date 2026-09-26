@@ -391,18 +391,19 @@
   <rect x="701" y="83" width="11" height="11" rx="2" fill="#40c463"><title>2026-09-22: 31</title></rect>
   <rect x="701" y="96" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-09-23: 1</title></rect>
   <rect x="701" y="109" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-09-24: 1</title></rect>
-  <rect x="701" y="122" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-09-25: 0</title></rect>
+  <rect x="701" y="122" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-09-25: 1</title></rect>
+  <rect x="701" y="135" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-09-26: 0</title></rect>
   <g class="row" style="animation-delay:0.20s">
     <text x="25" y="201" class="muted">🔥 Current streak</text>
-    <text x="25" y="223" class="big">23 days</text>
+    <text x="25" y="223" class="big">24 days</text>
   </g>
   <g class="row" style="animation-delay:0.30s">
     <text x="196" y="201" class="muted">🏆 Longest streak</text>
-    <text x="196" y="223" class="big">23 days</text>
+    <text x="196" y="223" class="big">24 days</text>
   </g>
   <g class="row" style="animation-delay:0.40s">
     <text x="367" y="201" class="muted">📅 Contributions</text>
-    <text x="367" y="223" class="big">1,593</text>
+    <text x="367" y="223" class="big">1,594</text>
   </g>
   <g class="row" style="animation-delay:0.50s">
     <text x="538" y="201" class="muted">⚡ Best day</text>
