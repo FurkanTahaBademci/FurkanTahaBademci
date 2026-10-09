@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder)** <sub>(last push 2026-09-12)</sub>
+🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-08)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-08 |
 | [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) | — | Python | 0 | 2026-09-12 |
 | [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-09-05 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | CSS | 0 | 2026-08-19 |
-| [NFCWrite](https://github.com/FurkanTahaBademci/NFCWrite) | — | Dart | 1 | 2026-08-10 |
 
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
 <!-- LATEST-REPOS:END -->

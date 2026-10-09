@@ -11,15 +11,15 @@
   <text x="25" y="35" class="title">Furkan Taha Bademci · GitHub Stats</text>
   <g class="row" style="animation-delay:0.15s">
     <text x="25" y="68" class="label">⭐  Total Stars Earned</text>
-    <text x="465" y="68" class="value" text-anchor="end">8</text>
+    <text x="465" y="68" class="value" text-anchor="end">9</text>
   </g>
   <g class="row" style="animation-delay:0.25s">
     <text x="25" y="98" class="label">🧬  Commits (all time)</text>
-    <text x="465" y="98" class="value" text-anchor="end">376</text>
+    <text x="465" y="98" class="value" text-anchor="end">378</text>
   </g>
   <g class="row" style="animation-delay:0.35s">
     <text x="25" y="128" class="label">📦  Public Repositories</text>
-    <text x="465" y="128" class="value" text-anchor="end">37</text>
+    <text x="465" y="128" class="value" text-anchor="end">38</text>
   </g>
   <g class="row" style="animation-delay:0.45s">
     <text x="25" y="158" class="label">🔱  Forks of My Repos</text>
