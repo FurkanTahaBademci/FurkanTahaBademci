@@ -24,7 +24,7 @@
 - 📱 I also develop **Flutter / Dart** mobile apps with Bluetooth and NFC hardware integrations.
 - 🔌 I enjoy connecting software to hardware: Arduino, PIC16F877A, ESP8266, BLE/Classic Bluetooth modules.
 - 🧑‍🏫 I prepare and teach Python & OpenCV course material.
-- 🌐 Portfolio: [furkantahabademci.github.io](https://furkantahabademci.github.io)
+- 🌐 Portfolio: [furkantahabademci.com.tr](https://furkantahabademci.com.tr)
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
