@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io)** — update <sub>(last push 2026-10-09)</sub>
+🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-10)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-10 |
+| [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
+| [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
+| [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) | This Python project provides a tool that performs image duplication operations. | Python | 6 | 2026-10-10 |
 | [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | HTML | 0 | 2026-10-09 |
-| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-09 |
-| [ai-team-builder](https://github.com/FurkanTahaBademci/ai-team-builder) | — | Python | 0 | 2026-09-12 |
-| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-09-05 |
-| [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-08-24 |
 
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,7 +68,9 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
-- ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor) <sub>2026-09-10</sub>
+- ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-10</sub>
+- ⬆️ Pushed 1 commit to [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) <sub>2026-10-10</sub>
+- ⬆️ Pushed 1 commit to [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) <sub>2026-10-10</sub>
 <!-- ACTIVITY:END -->
 
 ---
