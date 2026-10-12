@@ -68,9 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) <sub>2026-10-10</sub>
+- ⭐ Starred [Jakeschincariol/youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) <sub>2026-10-11</sub>
+- ⭐ Starred [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) <sub>2026-10-11</sub>
+- ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) <sub>2026-10-11</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-10</sub>
-- ⬆️ Pushed 1 commit to [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) <sub>2026-10-10</sub>
-- ⬆️ Pushed 1 commit to [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) <sub>2026-10-10</sub>
 <!-- ACTIVITY:END -->
 
 ---

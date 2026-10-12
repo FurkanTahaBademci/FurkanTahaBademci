@@ -68,9 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 1 commit gönderdi: [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) <sub>2026-10-10</sub>
+- ⭐ Yıldızladı: [Jakeschincariol/youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) <sub>2026-10-11</sub>
+- ⭐ Yıldızladı: [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) <sub>2026-10-11</sub>
+- ⭐ Yıldızladı: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) <sub>2026-10-11</sub>
 - ⬆️ 1 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-10</sub>
-- ⬆️ 1 commit gönderdi: [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) <sub>2026-10-10</sub>
-- ⬆️ 1 commit gönderdi: [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) <sub>2026-10-10</sub>
 <!-- ACTIVITY:END -->
 
 ---
