@@ -28,7 +28,7 @@
 - 📫 İletişim: **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Şu an üzerinde çalıştığım proje: **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-14)</sub>
+🔨 Şu an üzerinde çalıştığım proje: **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-15)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Sosyal Medya
@@ -56,7 +56,7 @@
 <!-- LATEST-REPOS:START -->
 | Depo | Açıklama | Dil | ⭐ | Son push |
 | --- | --- | --- | --- | --- |
-| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-14 |
+| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-15 |
 | [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
 | [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
 | [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) | This Python project provides a tool that performs image duplication operations. | Python | 6 | 2026-10-10 |
