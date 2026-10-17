@@ -68,11 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⬆️ 2 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 - ⬆️ 1 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-14</sub>
 - ⬆️ 1 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-15</sub>
 - ⬆️ 1 commit gönderdi: [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) <sub>2026-10-10</sub>
 - ⭐ Yıldızladı: [Jakeschincariol/youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) <sub>2026-10-11</sub>
-- ⭐ Yıldızladı: [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) <sub>2026-10-11</sub>
 <!-- ACTIVITY:END -->
 
 ---

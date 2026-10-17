@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 2 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-14</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-15</sub>
 - ⬆️ Pushed 1 commit to [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) <sub>2026-10-10</sub>
 - ⭐ Starred [Jakeschincariol/youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) <sub>2026-10-11</sub>
-- ⭐ Starred [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) <sub>2026-10-11</sub>
 <!-- ACTIVITY:END -->
 
 ---
