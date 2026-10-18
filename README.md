@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-16)</sub>
+🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-17)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,7 +56,7 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
-| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-16 |
+| [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-17 |
 | [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
 | [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
 | [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) | This Python project provides a tool that performs image duplication operations. | Python | 6 | 2026-10-10 |
@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
-- ⬆️ Pushed 2 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
+- ⬆️ Pushed 2 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
+- ⬆️ Pushed 3 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-14</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-15</sub>
 - ⬆️ Pushed 1 commit to [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) <sub>2026-10-10</sub>
-- ⭐ Starred [Jakeschincariol/youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) <sub>2026-10-11</sub>
 <!-- ACTIVITY:END -->
 
 ---
