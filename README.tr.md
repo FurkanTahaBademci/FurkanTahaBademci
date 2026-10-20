@@ -68,7 +68,7 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
-- ⬆️ 4 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
+- ⬆️ 7 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
 - ⬆️ 2 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-18</sub>
 - ⬆️ 5 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 - ⭐ Yıldızladı: [xerj-org/xerj](https://github.com/xerj-org/xerj) <sub>2026-10-18</sub>
