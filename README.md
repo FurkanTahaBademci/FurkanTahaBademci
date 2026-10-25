@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-18)</sub>
+🔨 Currently working on **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-10-24)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,11 +56,11 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-10-24 |
 | [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-18 |
 | [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
 | [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
 | [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) | This Python project provides a tool that performs image duplication operations. | Python | 6 | 2026-10-10 |
-| [furkantahabademci.github.io](https://github.com/FurkanTahaBademci/furkantahabademci.github.io) | update | HTML | 0 | 2026-10-09 |
 
 <sub>Auto-generated daily by a GitHub Action — no manual edits needed.</sub>
 <!-- LATEST-REPOS:END -->
@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-24</sub>
 - ⬆️ Pushed 7 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
 - ⬆️ Pushed 2 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-18</sub>
 - ⬆️ Pushed 5 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 - ⭐ Starred [xerj-org/xerj](https://github.com/xerj-org/xerj) <sub>2026-10-18</sub>
-- ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-14</sub>
 <!-- ACTIVITY:END -->
 
 ---

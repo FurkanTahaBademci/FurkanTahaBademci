@@ -45,11 +45,11 @@
     <text x="169" y="265" class="label">ActionScript</text>
   </g>
   <g class="row" style="animation-delay:0.44s">
-    <rect x="273" y="255" width="10" height="10" rx="2" fill="#e34c26"/>
-    <text x="289" y="265" class="label">HTML</text>
+    <rect x="273" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
+    <text x="289" y="265" class="label">Jupyter Notebook</text>
   </g>
   <g class="row" style="animation-delay:0.52s">
-    <rect x="329" y="255" width="10" height="10" rx="2" fill="#DA5B0B"/>
-    <text x="345" y="265" class="label">Jupyter Notebook</text>
+    <rect x="425" y="255" width="10" height="10" rx="2" fill="#e34c26"/>
+    <text x="441" y="265" class="label">HTML</text>
   </g>
 </svg>
