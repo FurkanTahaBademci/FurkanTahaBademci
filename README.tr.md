@@ -70,9 +70,9 @@
 <!-- ACTIVITY:START -->
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-25</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-24</sub>
-- ⬆️ 7 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
+- ⬆️ 5 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-17</sub>
 - ⬆️ 2 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-18</sub>
-- ⬆️ 5 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
+- ⬆️ 2 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-16</sub>
 <!-- ACTIVITY:END -->
 
 ---
