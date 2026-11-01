@@ -68,7 +68,7 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
-- ⬆️ 4 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-29</sub>
+- ⬆️ 6 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-29</sub>
 - ⬆️ 1 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-28</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-25</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-24</sub>
