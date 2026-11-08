@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[trade-ai](https://github.com/FurkanTahaBademci/trade-ai)** <sub>(last push 2026-10-29)</sub>
+🔨 Currently working on **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-11-07)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,8 +56,8 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-11-07 |
 | [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-29 |
-| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-10-25 |
 | [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
 | [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
 | [ImageAugmenter](https://github.com/FurkanTahaBademci/ImageAugmenter) | This Python project provides a tool that performs image duplication operations. | Python | 6 | 2026-10-10 |
@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-07</sub>
 - ⬆️ Pushed 6 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-29</sub>
 - ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-28</sub>
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-25</sub>
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-10-24</sub>
-- ⭐ Starred [xerj-org/xerj](https://github.com/xerj-org/xerj) <sub>2026-10-18</sub>
 <!-- ACTIVITY:END -->
 
 ---
