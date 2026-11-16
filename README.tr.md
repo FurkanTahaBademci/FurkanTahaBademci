@@ -68,11 +68,11 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- 🌱 Yeni dal açtı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-14</sub>
 - 🚀 Sürüm yayınladı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-07</sub>
 - ⬆️ 6 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-29</sub>
-- ⬆️ 1 commit gönderdi: [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-28</sub>
 <!-- ACTIVITY:END -->
 
 ---

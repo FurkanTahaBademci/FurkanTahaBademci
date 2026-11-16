@@ -68,11 +68,11 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- 🌱 Opened a new branch in [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-14</sub>
 - 🚀 Published a release of [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 - ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-07</sub>
 - ⬆️ Pushed 6 commits to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-29</sub>
-- ⬆️ Pushed 1 commit to [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) <sub>2026-10-28</sub>
 <!-- ACTIVITY:END -->
 
 ---
