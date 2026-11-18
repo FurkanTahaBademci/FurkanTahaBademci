@@ -71,8 +71,6 @@
 - 🌱 Yeni dal açtı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 - ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-14</sub>
 - 🚀 Sürüm yayınladı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
-- ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-07</sub>
-- ⭐ Yıldızladı: [xerj-org/xerj](https://github.com/xerj-org/xerj) <sub>2026-10-18</sub>
 <!-- ACTIVITY:END -->
 
 ---
