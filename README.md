@@ -28,7 +28,7 @@
 - 📫 Reach me at **tahafurkanbademci@gmail.com**
 
 <!-- NOW:START -->
-🔨 Currently working on **[BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer)** <sub>(last push 2026-11-14)</sub>
+🔨 Currently working on **[MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi)** <sub>(last push 2026-11-21)</sub>
 <!-- NOW:END -->
 
 ## 🌐 Socials
@@ -56,8 +56,8 @@
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | ⭐ | Last push |
 | --- | --- | --- | --- | --- |
+| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-11-21 |
 | [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) | — | Dart | 0 | 2026-11-14 |
-| [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) | — | Python | 0 | 2026-11-14 |
 | [trade-ai](https://github.com/FurkanTahaBademci/trade-ai) | — | Python | 1 | 2026-10-29 |
 | [python-ai-plate-detection](https://github.com/FurkanTahaBademci/python-ai-plate-detection) | Converting the plates detected using artificial intelligence algorithms into text using image processing techniques and Optical Character Recognition (OCR). | Python | 1 | 2026-10-10 |
 | [hand-track-ardunio-serial-connection](https://github.com/FurkanTahaBademci/hand-track-ardunio-serial-connection) | — | Python | 0 | 2026-10-10 |
@@ -69,7 +69,6 @@
 
 <!-- ACTIVITY:START -->
 - 🌱 Opened a new branch in [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
-- ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-14</sub>
 - 🚀 Published a release of [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 <!-- ACTIVITY:END -->
 
