@@ -357,7 +357,7 @@
   <rect x="636" y="109" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-22: 41</title></rect>
   <rect x="636" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-23: 15</title></rect>
   <rect x="636" y="135" width="11" height="11" rx="2" fill="#006d32"><title>2026-10-24: 106</title></rect>
-  <rect x="636" y="148" width="11" height="11" rx="2" fill="#006d32"><title>2026-10-25: 69</title></rect>
+  <rect x="636" y="148" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-25: 69</title></rect>
   <rect x="649" y="70" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-26: 16</title></rect>
   <rect x="649" y="83" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-27: 18</title></rect>
   <rect x="649" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-10-28: 15</title></rect>
@@ -377,7 +377,7 @@
   <rect x="675" y="83" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-10: 16</title></rect>
   <rect x="675" y="96" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-11: 73</title></rect>
   <rect x="675" y="109" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-12: 104</title></rect>
-  <rect x="675" y="122" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-13: 68</title></rect>
+  <rect x="675" y="122" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-13: 68</title></rect>
   <rect x="675" y="135" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-14: 103</title></rect>
   <rect x="675" y="148" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-15: 51</title></rect>
   <rect x="688" y="70" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-16: 46</title></rect>
@@ -385,24 +385,25 @@
   <rect x="688" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-18: 36</title></rect>
   <rect x="688" y="109" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-19: 29</title></rect>
   <rect x="688" y="122" width="11" height="11" rx="2" fill="#26a641"><title>2026-11-20: 147</title></rect>
-  <rect x="688" y="135" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-21: 69</title></rect>
+  <rect x="688" y="135" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-21: 69</title></rect>
   <rect x="688" y="148" width="11" height="11" rx="2" fill="#26a641"><title>2026-11-22: 140</title></rect>
-  <rect x="701" y="70" width="11" height="11" rx="2" fill="#39d353"><title>2026-11-23: 203</title></rect>
-  <rect x="701" y="83" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-24: 0</title></rect>
+  <rect x="701" y="70" width="11" height="11" rx="2" fill="#39d353"><title>2026-11-23: 208</title></rect>
+  <rect x="701" y="83" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-24: 132</title></rect>
+  <rect x="701" y="96" width="11" height="11" rx="2" fill="#0e4429"><title>2026-11-25: 1</title></rect>
   <g class="row" style="animation-delay:0.20s">
     <text x="25" y="201" class="muted">🔥 Current streak</text>
-    <text x="25" y="223" class="big">83 days</text>
+    <text x="25" y="223" class="big">85 days</text>
   </g>
   <g class="row" style="animation-delay:0.30s">
     <text x="196" y="201" class="muted">🏆 Longest streak</text>
-    <text x="196" y="223" class="big">83 days</text>
+    <text x="196" y="223" class="big">85 days</text>
   </g>
   <g class="row" style="animation-delay:0.40s">
     <text x="367" y="201" class="muted">📅 Contributions</text>
-    <text x="367" y="223" class="big">3,956</text>
+    <text x="367" y="223" class="big">4,094</text>
   </g>
   <g class="row" style="animation-delay:0.50s">
     <text x="538" y="201" class="muted">⚡ Best day</text>
-    <text x="538" y="223" class="big">203</text>
+    <text x="538" y="223" class="big">208</text>
   </g>
 </svg>
