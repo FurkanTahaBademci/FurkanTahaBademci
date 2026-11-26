@@ -68,7 +68,6 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
-- ⬆️ Pushed 1 commit to [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-21</sub>
 - 🚀 Published a release of [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 <!-- ACTIVITY:END -->
 

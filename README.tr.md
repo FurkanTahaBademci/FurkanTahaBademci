@@ -68,7 +68,6 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
-- ⬆️ 1 commit gönderdi: [MucitAkademi](https://github.com/FurkanTahaBademci/MucitAkademi) <sub>2026-11-21</sub>
 - 🚀 Sürüm yayınladı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 <!-- ACTIVITY:END -->
 
