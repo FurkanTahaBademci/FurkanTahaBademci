@@ -68,6 +68,7 @@
 ## ⚡ Son Etkinlikler
 
 <!-- ACTIVITY:START -->
+- ⭐ Yıldızladı: [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) <sub>2026-11-27</sub>
 - 🚀 Sürüm yayınladı: [BtKontrolRobomer](https://github.com/FurkanTahaBademci/BtKontrolRobomer) <sub>2026-11-14</sub>
 <!-- ACTIVITY:END -->
 
